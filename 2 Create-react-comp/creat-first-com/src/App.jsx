@@ -1,5 +1,6 @@
 import Hello from "./Hello";
 import KgButton from "./KgButton";
+import Random from "./Randome";
 
 function App() {
 return <div>
@@ -9,6 +10,12 @@ return <div>
 
 <button>Subscribe</button>
 <Hello />
+
+<Random></Random>
+<Random></Random>
+<Random></Random>
+<Random></Random>
+<Random></Random>
 
 </div> 
 }
